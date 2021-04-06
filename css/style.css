@@ -2,3 +2,25 @@
 .h1 {
 	align-content: center
 }
+
+
+.btn.btn-primary {
+  align-content: center;
+  border-radius: 1px;
+  border: medium;
+  border-color: #fffefd;
+  color: #fbd1d5;
+  text-color: #fffff;
+  background-color: ##efee00;
+}
+
+.btn.btn-primary:hover {
+  color: #FFFFFF;
+  background-color: #ffa401;
+}
+
+.btn-secondary {
+  background-color: #ffa401;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
