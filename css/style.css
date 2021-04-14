@@ -5,7 +5,8 @@
 .responsive {
   	width: 100%;
   	height: auto;
-	margin:10px;
+	margin-left:10px;
+	margin-right:10px;
 }
 .navbar{
 	float: inherit;
@@ -42,5 +43,9 @@ li {
   background-color: #ffa401;
   color: #ffffff;
   margin: 0 0 30px;
+}
+
+.improvement {
+	list-style:;
 }
 
