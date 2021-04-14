@@ -1,23 +1,34 @@
 @import url("bootstrap.min.css");
-.h1 {
-	align-content: center;
-	background-color: yellow;
-}
 
+.navbar {
+	float: inherit;
+	color:#FFFFFF;
+	background-color: #000000;
+}
+li {
+ 	display: inline;
+	}
+
+.h1 {
+	color:black;
+	}
+.h3 {
+	align-content: center;
+	color:#d21511;
+}
 
 .btn.btn-primary {
   align-content: center;
-  border-radius: 1px;
-  border: medium;
-  border-color: #fffefd;
-  color: #fbd1d5;
-  text-color: #fffff;
-  background-color: ##efee00;
+  border-width: thick;
+  border-style: dotted;
+  border-color: #d21511;
+  color: #000000;
+  background-color: #efee00;
 }
 
 .btn.btn-primary:hover {
   color: #FFFFFF;
-  background-color: #ffa401;
+  background-color: #d21511;
 }
 
 .btn-secondary {
