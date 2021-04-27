@@ -82,5 +82,17 @@ overflow: hidden;
 	text-decoration: underline;
 }
 
+.img-fluid{
+	
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.card{ margin-left: 30px;
+margin-bottom: 30px;}
+
+.menupage {
+	background-color:#FF0004;
+}
 
 
