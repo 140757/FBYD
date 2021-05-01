@@ -17,6 +17,8 @@ overflow: hidden;
   font-size: 17px;
 	font: bold;
 }
+
+
 	.topnav a:hover {
   background-color: #ddd;
   color:#FFFFFF;
@@ -117,27 +119,4 @@ input[type=text], select, textarea {
   box-sizing: border-box; 
   margin-top: 6px; 
   margin-bottom: 16px; 
-  resize: vertical 
-
-input[type=submit] {
-  background-color: #e2725a;
-  color: #F0C900;
-  padding: 12px ;
-  border: none;
-  border-color:#d21511;
-border-radius: 4px;
-  cursor: pointer;
-}
-
-
-input[type=submit]:hover {
-  background-color: #F0C900;
-}
-
-
-.contact {
-  border-radius: 5px;
-  background-color: #efee00;
-  padding: 20px;
-}
-
+	resize: vertical }
